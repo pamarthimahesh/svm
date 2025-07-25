@@ -1,4 +1,4 @@
-git clone https://github.com/codingacharya/svm.git
+git clone https://github.com/pamarthimahesh/svm.git
 
 cd svm
 
